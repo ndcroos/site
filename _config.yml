@@ -4,3 +4,5 @@ twitter_username: NickDecroos
 github_username:  ndcroos
 markdown: kramdown
 theme: minima
+plugins:
+  - jekyll-feed
