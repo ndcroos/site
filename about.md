@@ -13,7 +13,7 @@ Internet profiles
 * [LinkedIn](https://www.linkedin.com/in/nick-decroos-285105116/)
 * [GitHub](https://github.com/ndcroos)
 * [Kaggle](https://www.kaggle.com/ndcroos)
-* [Duolingo](https://www.duolingo.com/nickdecr) Duolingo is an application where you can learn languages for free.
+* [Duolingo](https://www.duolingo.com/nickdecr)
 * [Facebook](https://www.facebook.com/nick.decroos)
 * [Twitter](https://twitter.com/NickDecroos)
 
