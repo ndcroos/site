@@ -13,7 +13,6 @@ Internet profiles
 * [LinkedIn](https://www.linkedin.com/in/nick-decroos-285105116/)
 * [GitHub](https://github.com/ndcroos)
 * [Kaggle](https://www.kaggle.com/ndcroos)
-* [HackerRank](https://www.hackerrank.com/nick_decroos)
 * [Duolingo](https://www.duolingo.com/nickdecr)
 * [Facebook](https://www.facebook.com/nick.decroos)
 * [Twitter](https://twitter.com/NickDecroos)
