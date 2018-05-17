@@ -13,6 +13,7 @@ Internet profiles
 * [LinkedIn](https://www.linkedin.com/in/nick-decroos-285105116/)
 * [GitHub](https://github.com/ndcroos)
 * [Kaggle](https://www.kaggle.com/ndcroos)
+* [Quora](https://www.quora.com/profile/Nick-Decroos)
 * [Duolingo](https://www.duolingo.com/nickdecr)
 * [Facebook](https://www.facebook.com/nick.decroos)
 * [Twitter](https://twitter.com/NickDecroos)
