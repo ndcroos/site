@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! My name is Nick Decroos and I live in Poperinge, a humble town in Belgium. Previously, I studied electronics and computer science at Ghent University.
-I like to make things.
+Hi! My name is Nick Decroos and I live in Poperinge, a humble town in Belgium. I am a programmer. Previously, I studied electronics and computer science at Ghent University.
 
 Internet profiles
 ==
