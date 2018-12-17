@@ -1,6 +1,6 @@
 ---
 layout: page
-title: inspiring
+title: 
 permalink: /inspiring/
 ---
 
