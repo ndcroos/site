@@ -14,6 +14,8 @@ I like the following artists in particular:
 * Tool
 * Gogo Penguin
 * Owen Pallett
+* Caribou
+* Arthur Russell
 * Andrew Bird
 * Jeff Buckley
 * Tim Buckley
@@ -29,3 +31,6 @@ Classical:
 * Michael Nyman
 * Steve Reich
 * Philip Glass
+* Henryk Gorecki
+* Igor Stravinsky
+* Bela Bartok
