@@ -20,6 +20,7 @@ I like the following artists in particular:
 * Jeff Buckley
 * Tim Buckley
 * Fred Neil
+* Entertainment for the braindead
 
 Classical:
 * Erik Satie
