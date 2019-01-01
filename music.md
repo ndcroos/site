@@ -23,6 +23,7 @@ I adore the following artists in particular:
 * Van Morrison
 * Entertainment for the braindead
 * Kate Bush
+* David Bowie
 
 Classical:
 * Erik Satie
