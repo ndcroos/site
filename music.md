@@ -20,6 +20,7 @@ I adore the following artists in particular:
 * Jeff Buckley
 * Tim Buckley
 * Fred Neil
+* Van Morrison
 * Entertainment for the braindead
 * Kate Bush
 
