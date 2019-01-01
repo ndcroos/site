@@ -1,6 +1,6 @@
 I'm always interested in discovering new music. If you have a suggesting, you can always contact me.
 
-I like the following artists in particular:
+I adore the following artists in particular:
 
 * Talk Talk
 * Rachel's
