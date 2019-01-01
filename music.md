@@ -21,6 +21,7 @@ I adore the following artists in particular:
 * Tim Buckley
 * Fred Neil
 * Entertainment for the braindead
+* Kate Bush
 
 Classical:
 * Erik Satie
