@@ -38,3 +38,4 @@ Classical:
 * Henryk Gorecki
 * Igor Stravinsky
 * Bela Bartok
+* David Lang
