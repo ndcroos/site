@@ -15,6 +15,7 @@ Internet profiles
 * [Quora](https://www.quora.com/profile/Nick-Decroos)
 * [Duolingo](https://www.duolingo.com/nickdecr)
 * [Twitter](https://twitter.com/NickDecroos)
+* [Mastodon](https://mastodon.social/web/accounts/265069)
 
 Contact
 ==
