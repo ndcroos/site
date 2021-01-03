@@ -24,6 +24,8 @@ I adore the following artists in particular:
 * Entertainment for the braindead
 * Kate Bush
 * David Bowie
+* Frank Zappa
+* Van Morrison
 
 Classical:
 * Erik Satie
@@ -39,3 +41,4 @@ Classical:
 * Igor Stravinsky
 * Bela Bartok
 * David Lang
+* Lili Boulanger
