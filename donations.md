@@ -1,0 +1,7 @@
+
+
+Tips and donations:
+
+*
+
+*
