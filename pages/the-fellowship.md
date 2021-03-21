@@ -12,6 +12,8 @@ I can mentor you in:
 
 * mathematics
 
+* basic economics
+
 
 I am interested in being mentored in the following areas:
 
