@@ -23,4 +23,6 @@ I am interested in being mentored in the following areas:
 
 * quantum computer programming
 
+* health, medicine
+
 * advanced people and communication skills
