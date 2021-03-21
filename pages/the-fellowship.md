@@ -15,10 +15,10 @@ I can mentor you in:
 
 I am interested in being mentored in the following areas:
 
-* people skills
-
 * electronics
 
 * drawing
 
 * quantum computer programming
+
+* people skills
