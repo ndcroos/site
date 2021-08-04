@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello, welcome this website. My name is Nick. Previously, I studied electronics and computer science at Ghent University.
+Hello, welcome this website.
 
 Contact
 ==
